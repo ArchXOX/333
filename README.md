@@ -1,1 +1,2 @@
-# 333
+This project deals with the study of Yelp reviews of restaurants to discover the secret ingredient that makes a restaurant succeed. By doing a thorough analysis of customer feedback and the features of restaurants, the owners can make valuable changes to help attract more customers and make it the place everyone's raving about
+Hypothesis testing method is used to obtain insights from the data's variables.
